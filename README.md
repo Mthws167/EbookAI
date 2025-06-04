@@ -1,4 +1,4 @@
-# 📘 CÉREBRO DIGITAL: Por Dentro das LLMs
+# 📘 [CÉREBRO DIGITAL: Por Dentro das LLMs](https://www.linkedin.com/posts/mthws167_ebook-c%C3%A9rebro-digital-por-dentro-das-llms-activity-7335864482151202816-MhSN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkuMxcByg76QpgMKuQQk2By1s7V03m3nn0)
 
 Um ebook introdutório, breve e didático sobre o universo das LLMs (Large Language Models) e Inteligência Artificial Generativa.
 
